@@ -10,8 +10,8 @@ IT support teams lose time on three things: tickets that land with no owner, dea
 
 ## Demo
 
-- Demo video: `<add link>`
-- Screenshots: see the `/screenshots` folder
+- Demo video: Currently working on recording/publishing a full demo video.
+- Screenshots: see the IT Support Hub Project in the same main branch.
 
 ## Architecture
 
